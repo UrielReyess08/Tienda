@@ -1,0 +1,85 @@
+EQUIPO 1
+Procesador: Intel Core i5-10400F 2.9 / 4.30 GHz 6 Núcleos, 12 MB Caché
+Memoria RAM: 16GB DDR4 2666Mhz Ampliable
+Disco Solido: SSD 480GB 
+Disco Duro: HDD 1TB 7200 RPM
+T. Video: NVIDIA GeForce GTX1650 OC DDR6
+Case Mid Tower + Fuente 450W 
+Monitor: LG 24MK430 LED de 23.8" Full HD
+Otros: DVD RW, Teclado y Mouse USB
+Recibe toda la potencia necesaria para disfrutar de los últimos juegos del mercado con una tasa superior a los 60fps y a resolución 1080p
+S/. 4,599.00
+
+EQUIPO 2
+Procesador: AMD Ryzen 5 5600G, 3.90 / 4.4GHz   ( 6 núcleos, Caché 16MB L3) 
+Memoria RAM: 16 GB DDR4 3200 MHz Ampliable
+Disco Solido: SSD 480GB + HDD 1TB 
+Case Mid Tower + Fuente 450W 
+Monitor: LG 24MK430 LED de 23.8" Full HD
+Otros: DVD RW, Teclado y Mouse USB
+S/. 3,199.00
+
+EQUIPO 3
+Procesador: Intel Core i7-11700F 2.5 / 4.9 GHz (8 Núcleos) 16 MB Caché 11va Generación
+Memoria RAM: 16GB DDR4 3200 MHz Ampliable
+Disco Solido: SSD 480GB 
+Disco Duro HDD: 1TB 7200 RPM
+Tarjeta Gráfica: NVIDIA GeForce GTX1650 4GB
+Case Mid Tower RGB + Fuente 600W 
+Monitor: LG 24MK430 LED de 23.8" Full HD
+Teclado y Mouse USB incluidos
+S/. 5,299.00
+
+LAPTOP 1
+AMD Ryzen 5 4600H 3.0GHz / 4.0 GHz, 6 núcleos 
+RAM 8 GB DDR4-3200GHz / Disco Duro SSD 512GB M.2 
+Pantalla FHD (1920 x 1080) de 15,6" con microbordes, antirreflejante, 220 nits, 45 % de NTSC
+Video NVIDIA GeForce GTX 1650Ti con 4 GB dedicado
+Teclado retroiluminado, USB Type-C, Wi-Fi, Bluetooth
+ Windows 10 Home en español.
+ S/. 3,699.00
+
+ LAPTOP 2
+ Intel® Core™ i5 10500H 2.5 / 4.5GHz, 4 núcleos - Décima Generación.
+RAM: 8 GB  DDR4 / Disco sólido SSD 256GB PCle
+Pantalla de 15.6" Full HD (1920x1080) IPS Thin Bezel
+Video Nvidia Geforce GTX 1650 de 4 GB dedicados
+Teclado iluminado, Wi-FI, Bluetooth, USB Tipo-C
+Windows 10 Home
+S/. 3,799.00
+
+LAPTOP 3
+AMD Ryzen™ 7 5800HS 2.8GHz hasta 4.4GHz, 8 núcleos
+RAM 16 GB DDR4-3200 MHz ampliable
+Disco SSD 512GB NVMe PCIe Gen 3.0  
+Pantalla IPS de 14 pulgadas  Full HD (1920x1080) a 144Hz Adobe sRGB 100%
+Video NVIDIA ® GeForce ® GTX 1650 4GB GDDR6 VRAM 
+Teclado chiclet retroiluminado, ROG Armory Crate, Wi-FI, Bt, USB Type-C. Peso 1.6 Kg.
+Windows 11 Home
+S/. 4,999.00
+
+JUEGO 1
+Terraria es un videojuego de acción, aventura y de sandbox producido de forma independiente por el estudio Re-Logic. Tiene características tales como la exploración, la artesanía, la construcción de estructuras y el combate.​Se lanzó el 16 de mayo de 2011.
+S/ 27.95
+
+JUEGO 2
+Call of Duty: Modern Warfare 2​​ ​​es un videojuego de acción en primera persona desarrollado por Infinity Ward. Es la sexta entrega de la serie Call of Duty y sucesora directa de Modern Warfare, cuarto de la serie.​ Salió a la venta el 10 de noviembre de 2009 y fue distribuida por Activision.
+S/ 269.00
+
+JUEGO 3
+Fecha de estreno inicial: 12 de septiembre de 2003
+Género: Videojuego de disparos en primera persona
+Serie: Counter-Strike
+Desarrolladores: Valve Corporation, Turtle Rock Studios
+
+JUEGO 4
+EA Sports UFC 4 es un videojuego de artes marciales mixtas desarrollado por EA Vancouver y distribuido por EA Sports para PlayStation 4 y Xbox One. Se basa en la marca Ultimate Fighting Championship y fue lanzado el 14 de agosto de 2020 a nivel mundial.​
+S/ 115.00
+
+JUEGO 5 
+Batman: Arkham Knight es un videojuego de acción-aventura, mundo abierto​ desarrollado por Rocksteady Studios y lanzado por Warner Bros. Interactive Entertainment para las consolas PlayStation 4, Xbox One y Microsoft Windows.
+S/ 59.00
+
+JUEGO 6
+Assassin's Creed Valhalla es un videojuego desarrollado por Ubisoft Montreal y publicado por Ubisoft. Es el decimosegundo en importancia y el vigesimosegundo lanzado dentro de la saga de Assassin Creed, y sucesor al juego del 2018 Assassin's Creed Odyssey.
+S/ 149.20
