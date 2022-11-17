@@ -35,6 +35,7 @@ body {
     position: absolute;
     display: inline;
     text-align: center;
+    padding-top: 10px
 }
 .centrado {
     position: absolute;
@@ -53,11 +54,13 @@ body {
 .wrapper {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
 }
 .card {
     /* Add shadows to create the "card" effect */
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
+
   }
   
   /* On mouse-over, add a deeper shadow */
@@ -70,9 +73,9 @@ body {
     padding: 2px 16px;
   }
 
-/* fondo-contacto*/
+  /* fondo-contacto*/
 .fondo-contacto {
-    background-color: #8C8C8C;
+    background-color: #D9D7D7;
 }
 
 /* Popup de equipos 
@@ -175,3 +178,44 @@ haciendo una simple transición de medio segundo.
     text-decoration: none;
     color: #F00;
   }
+
+  /* Juegos */
+  .wrapper-juegos {
+    display: grid;
+    grid-template-columns: repeat(3, 25%);
+    gap: 10px;
+    padding-top: 150px;
+    transform-origin: 0 0;
+    transform: skewY(-8deg);
+    background-image: url(/img/fondo.png);
+}
+
+/* Juegos imagen*/
+.img-juegos {
+  width: 600px;
+  height: 400px;
+  object-fit: scale-down;
+}
+
+/* hover juegos*/
+
+.tooltip {
+  position: static;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 30%;
+  background-color: #688C8C;
+  color: #FFF;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  /* posicion de tooltip*/
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
